@@ -1,4 +1,4 @@
-#create BY Infected_AOFSFOF
+#create BY W4FXploit
 #-*- coding: utf-8 -*-
 
 try:
@@ -31,10 +31,10 @@ banner = """
           `:+shmNMMMMMMMMMMMMMMMMmmhyo/`          
                 :MMMMMMMMMMMMMMMM:                
                 `:+syhdmmmmdhys+:`
-            MASS DEFACE + WEBDAV 2019
-            Nick : Infected_AOFSFOF
-            Wa : 089677556385
-            IG : @Infected_aofsfof
+                MASS deface BY
+                  W4FXploit
+             visit my blog for tutorial
+           https://w4fxploit.blogspot.com
 
 """
 
