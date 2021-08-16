@@ -31,10 +31,11 @@ banner = """
           `:+shmNMMMMMMMMMMMMMMMMmmhyo/`          
                 :MMMMMMMMMMMMMMMM:                
                 `:+syhdmmmmdhys+:`
-            MASS DEFACE + WEBDAV 2019
-            Nick : Infected_AOFSFOF
-            Wa : 089677556385
-            IG : @Infected_aofsfof
+             <[MASS DEFACE WEBDAV]>
+                      BY
+             </>  W4FXploit  </>
+                VISIT MY BLOG 
+         https://w4fxploit.blogspot.com
 
 """
 
